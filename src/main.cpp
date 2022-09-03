@@ -54,10 +54,3 @@ int main(){
 
     return 0;
 }
-
-/*
-    ERRO NO CORTE DA MATRIZ NA LINHA 1 E COLUNA 1
-    HASH TEM QUE SER FEITA
-    LER COORDENADAS DO ARQUIVO
-
-*/
